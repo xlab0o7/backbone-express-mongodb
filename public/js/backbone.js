@@ -118,8 +118,6 @@ var BlogsView = Backbone.View.extend({
     }
 
 });
-
-//var blogsView = new BlogView();
 var blogsView = new BlogsView();
 
 
